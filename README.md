@@ -1,3 +1,5 @@
+How to Add, Texture, and Transform a Billboard Model in Blockbuster Studio.
+
 Prerequisite: This guide requires the Blockbuster Studio (BBS) mod on a desktop version of Minecraft (mobile is not supported).
 
 Open Replays: Open the Blockbuster menu from the main menu and go to Replays.
