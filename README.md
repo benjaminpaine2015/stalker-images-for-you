@@ -1,19 +1,15 @@
-How to Add, Texture, and Animate a 2D Billboard Model in Blockbuster Studio
 Prerequisite: This guide requires the Blockbuster Studio (BBS) mod on a desktop version of Minecraft (mobile is not supported).
 
-Step 1: Create the Replay and Spawn the Billboard
-Open the Blockbuster menu, navigate to Replays, and click Add Replay.
+Open Replays: Open the Blockbuster menu from the main menu and go to Replays.
 
-Click on your newly created replay, select Pick, choose the Billboard (the pink and blue flat 2D model), and press Escape to exit the menu.
+Add a Replay: Click Add Replay, then click on your newly created replay.
 
-Step 2: Add Your Custom Texture
-Go back into Replays, click on your billboard model, and select Edit.
+Pick the Model: Press Pick, select the Billboard (the pink and blue flat 2D model), and press Escape.
 
-Click Choose a texture, open the folder icon in the top right corner, and drop your image files directly into that folder.
+Edit the Replay: Click on your billboard model in the replays list and press Edit.
 
-Step 3: Animate and Position Using the Replay Editor (Transform)
-In the Replay menu, click on your model and select Edit (or open the timeline/replay editor view where you manage your keyframes).
+Add Your Texture Files: Click Choose a texture, open the folder icon in the top right corner, and drop your image files directly into that folder.
 
-Look for the Transform settings or tool options to adjust your model's position, rotation, and scale in the 3D space.
+Select the Texture & Exit: Click on your newly added texture to apply it, and press Escape to get out of the texture menu.
 
-Set your start keyframe, move your timeline cursor to where you want the movement to happen, adjust the transform properties to place the billboard where you want it, and save the keyframe to animate its movement across the scene.
+Transform the Model: Use the transform options in the replay editor menu to scale, position, and rotate your billboard model.
